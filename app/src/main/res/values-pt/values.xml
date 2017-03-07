@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Livro FIAP</string>
+
+    <!-- SPLASH SCREEN -->
+    <string name="erro_api">Erro ao carregar o aplicativro. Tente novamente mais tarde</string>
+
+    <!-- TELA DE LOGIN -->
+    <string name="titulo_login">Entrar</string>
+    <string name="label_login">Nome do usuário</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_logado">Keep me logged in</string>
+    <string name="label_botao_entrar">Entrar</string>
+    <string name="login_vazio">Nome do usuário não pode estar em branco</string>
+    <string name="senha_vazia">Senha não pode estar em branco</string>
+    <string name="erro_usuario">Erro ao entrar. Tente novamente mais tarde</string>
+    <string name="erro_login">Nome do usuário or senha estão incorretos. Tente novamente mais tarde</string>
+
+    <!-- TELA DASHBOARD -->
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="lista_vazia">Você não têm nenhum livro :(</string>
+    <string name="sucesso_deleta">Livro apagado com sucesso</string>
+
+    <!-- MENU -->
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="nav_novo_restaurante">Novo livro</string>
+    <string name="nav_sobre">Sobre o aplicativo</string>
+    <string name="nav_sair">Sair</string>
+    <string name="menu_editar">Editar</string>
+    <string name="menu_deletar">Apagar</string>
+
+    <!-- TELA SOBRE -->
+    <string name="titulo_sobre">Sobre o aplicativo</string>
+    <string name="nome_dev">Raphael Higashi</string>
+
+    <!-- TELA FORM -->
+    <string name="titulo_form">Formulário do livro</string>
+    <string name="label_form_nome">Qual o nome do livro?</string>
+    <string name="erro_form_nome">Nome do livro não preenchido</string>
+    <string name="label_form_isbn">Qual o isbn?</string>
+    <string name="erro_form_isbn">Isbn não preenchido</string>
+    <string name="label_form_assunto">Qual o assunto?</string>
+    <string name="erro_form_assunto">Assunto não preenchido</string>
+    <string name="sucesso_form">Livro adicionado com sucesso</string>
+    <string name="sucesso_edita_form">Livro atualizado com sucesso</string>
+
+    <string name="action_settings">Configurações</string>
+</resources>

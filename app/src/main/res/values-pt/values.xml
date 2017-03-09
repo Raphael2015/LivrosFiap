@@ -8,7 +8,7 @@
     <string name="titulo_login">Entrar</string>
     <string name="label_login">Nome do usuário</string>
     <string name="label_senha">Senha</string>
-    <string name="label_logado">Keep me logged in</string>
+    <string name="label_logado">Mantenha-me conectado</string>
     <string name="label_botao_entrar">Entrar</string>
     <string name="login_vazio">Nome do usuário não pode estar em branco</string>
     <string name="senha_vazia">Senha não pode estar em branco</string>
